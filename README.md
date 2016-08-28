@@ -8,6 +8,8 @@ It uses *zombie.js* to simulate a login into the website and uses *request* extr
 
 The api calls return the raws JSON data from the API response.
 
+# Status
+very much Work In Process - check back in a week or so :)
 ```
 export FABRIC_EMAIL=
 export FABRIC_PASSWORD=
